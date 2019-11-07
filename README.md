@@ -1,7 +1,7 @@
 # DLCV_hw2
 
 ## This is my homework 2
-   I used keras to build my GAN model
+   I used keras to build my DCGAN model
 
 ## File discription
     helper.py        ------- fuction for get_image, grid_to_show, get_batch...
